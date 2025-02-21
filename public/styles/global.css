@@ -82,6 +82,12 @@ body {
 }
 
 .header-text {
-    font-family: "Cousine",Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Cousine", Verdana, Geneva, Tahoma, sans-serif;
 }
 
+nav a {
+    margin: 20px 20px;
+    font-size: 24px;
+    display: inline-block;
+    text-align: center;
+}
