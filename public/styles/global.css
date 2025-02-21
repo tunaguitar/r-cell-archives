@@ -1,0 +1,93 @@
+/* FONTS IMPORT */
+@font-face {
+	font-family: "Inria Serif";
+	src: url(Inria_Serif/InriaSerif-Regular.ttf);
+}
+@font-face {
+	font-family: "Inria Serif";
+	src: url(Inria_Serif/InriaSerif-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+	font-family: "Inria Serif";
+	src: url(Inria_Serif/InriaSerif-Italic.ttf);
+    font-style: italic;
+}
+@font-face {
+	font-family: "Inria Serif";
+	src: url(Inria_Serif/InriaSerif-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+	font-family: "Courier Prime";
+	src: url(Courier_Prime/CourierPrime-Regular.ttf);
+}
+@font-face {
+	font-family: "Courier Prime";
+	src: url(Courier_Prime/CourierPrime-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+	font-family: "Courier Prime";
+	src: url(Courier_Prime/CourierPrime-Italic.ttf);
+    font-style: italic;
+}
+@font-face {
+	font-family: "Courier Prime";
+	src: url(Courier_Prime/CourierPrime-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Cousine";
+    src: url(Cousine/Cousine-Regular.ttf);
+}
+@font-face {
+    font-family: "Cousine";
+    src: url(Cousine/Cousine-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Cousine";
+    src: url(Cousine/Cousine-Italic.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Cousine";
+    src: url(Cousine/Cousine-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* STYLES */
+h1 {
+    font-family: "Inria Serif", Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: #96CE65;
+}
+
+a:hover {
+    color: #7d861d;
+}
+
+body {
+    font-family: "Courier Prime", 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white
+}
+
+.header-text {
+    font-family: "Cousine", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav a {
+    margin: 20px 20px;
+    font-size: 24px;
+    display: inline-block;
+    text-align: center;
+}
