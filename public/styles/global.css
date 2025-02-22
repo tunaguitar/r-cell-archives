@@ -78,11 +78,19 @@ a:hover {
 body {
     font-family: "Courier Prime", 'Courier New', Courier, monospace;
     background-color: black;
-    color: white
+    color: white;
+    margin: 0px;
 }
 
 .header-text {
     font-family: "Cousine", Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #7d861d;
+    position: sticky;
+    top: 0px;
+}
+
+.agent-file {
+    background-color: #FFFAF4;
 }
 
 nav a {
