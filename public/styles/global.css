@@ -90,4 +90,15 @@ nav a {
 }
 
 .header-text {
-    font-family: "Cousine", Verdana, Geneva, Taho
+    font-family: "Cousine", Verdana, Geneva, Tahoma, sans-serif;
+    top: 0px;
+}
+
+.agent-file {
+    background-color: #FFFAF4;
+    color: black;
+}
+
+.folder-tab {
+    clip-path: polygon(10% 0%, 0% 100%, 100% 100%, 100% 0%);
+}
