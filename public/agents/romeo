@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+</html>
+<head>
+    <title>Agents | The R-Cell Archives</title>
+    <meta name="description" content="For your eyes only.">
+    <link rel="stylesheet" type="text/css" href="../styles/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../styles/global.css">
+</head>
+
+<!-- HEADER -->
+<div class="containter header-text" style="position: sticky; width: auto">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-6" style="font-size: 36px;">
+            <a href="../index.html" style="color: white;"><i>THE R-CELL ARCHIVES</i></a>
+        </div>
+        <div class="col folder-tab agent-file" style="text-align: right;">
+            <nav>
+                <a href="/agents" target="_parent">AGENTS</a>
+                <a href="/reports" target="_parent">REPORTS</a>
+                <a href="/gallery" target="_parent">GALLERY</a>
+            </nav>
+        </div>
+    </div>
+</div>
+
+<!-- BODY -->
+    <div class="agent-file">
+        <h1>test</h1>
+    </div>
+<html>
