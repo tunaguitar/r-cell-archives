@@ -1,4 +1,94 @@
 <!DOCTYPE html>
 </html>
     <h1>TEST</h1>
+<html><!DOCTYPE html>
+</html>
+<head>
+    <title>Agent River | The R-Cell Archives</title>
+    <meta name="description" content="For your eyes only.">
+    <link rel="stylesheet" type="text/css" href="../styles/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../styles/global.css">
+</head>
+
+<!-- HEADER -->
+<div class="containter header-text" style="position: sticky; width: auto">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-6" style="font-size: 36px;">
+            <a href="../index.html" style="color: white;"><i>THE R-CELL ARCHIVES</i></a>
+        </div>
+        <div class="col folder-tab agent-file" style="text-align: right;">
+            <nav>
+                <a href="/agents" target="_parent">AGENTS</a>
+                <a href="/reports" target="_parent">REPORTS</a>
+                <a href="/gallery" target="_parent">GALLERY</a>
+            </nav>
+        </div>
+    </div>
+</div>
+
+<!-- BODY -->
+    <div class="agent-file p-5">
+        
+        <!-- Title -->
+         <div class="container" style="text-align: center;">
+            <!-- Name -->
+            <h1>Agent RIVER</h1>
+            <!-- Images -->
+
+         </div>
+
+         <!-- Information -->
+        <div class="container my-4">
+            <div class="container pl-3 py-1" style="background-color: black;"><h2>INFORMATION</h2></div>
+            <div class="row m-3">
+                <div class="col-8">
+                    <div class="row">
+                        <div class="col-4 m-2">Legal Name:</div>
+                        <div class="col m-2" style="border-bottom:1px solid;">     ???</div>
+                        <div class="w-100"></div>
+                        <div class="col-4 m-2">Gender:</div>
+                        <div class="col m-2" style="border-bottom:1px solid;">     ???</div>
+                        <div class="w-100"></div>
+                        <div class="col-4 m-2">Age:</div>
+                        <div class="col m-2" style="border-bottom:1px solid;">     ???</div>
+                        <div class="w-100"></div>
+                        <div class="col-4 m-2">Height:</div>
+                        <div class="col m-2" style="border-bottom:1px solid;">     ??? cm</div>
+                        <div class="w-100"></div>
+                        <div class="col-4 m-2">DOB:</div>
+                        <div class="col m-2" style="border-bottom:1px solid;">     ???</div>
+                        <div class="w-100"></div>
+                        <div class="col-4 m-2">Nationality:</div>
+                        <div class="col m-2" style="border-bottom:1px solid;">     ???</div>
+                        <div class="w-100"></div>
+                        <div class="col-4 m-2">Profession:</div>
+                        <div class="col m-2" style="border-bottom:1px solid;">     ???</div>
+                        <div class="w-100"></div>
+                        <div class="col-4 m-2">Status:</div>
+                        <div class="col m-2" style="border-bottom:1px solid;">     Alive</div>
+                    </div>
+                </div>
+                <div class="col">
+                    Image
+                </div>
+            </div>
+        </div>
+
+        <!-- Background -->
+        <div class="container my-4">
+            <div class="container pl-3 py-1" style="background-color: black;"><h2>BACKGROUND</h2></div>
+            <div class="my-4">
+                words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words
+            </div>
+        </div>
+
+        <!-- CONNECTIONS -->
+        <div class="container my-4">
+            <div class="container pl-3 py-1" style="background-color: black;"><h2>CONNECTIONS</h2></div>
+            <div class="my-4">
+                words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words
+            </div>
+        </div>
+         
+    </div>
 <html>

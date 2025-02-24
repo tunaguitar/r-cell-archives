@@ -65,6 +65,16 @@
 /* STYLES */
 h1 {
     font-family: "Inria Serif", Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px
+}
+
+h2 {
+    font-family: "Cousine", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+    vertical-align: middle;
+    margin: 0;
+    letter-spacing: 5px;
 }
 
 a {
@@ -80,6 +90,7 @@ body {
     background-color: black;
     color: white;
     margin: 0px;
+    letter-spacing: 2px;
 }
 
 nav a {
