@@ -8,10 +8,10 @@
 </head>
 
 <!-- HEADER -->
-<div class="containter header-text" style="position: sticky; width: auto">
+<div class="containter header-text">
     <div class="row justify-content-center align-items-center">
         <div class="col-6" style="font-size: 36px;">
-            <a href="../index.html" style="color: white;"><i>THE R-CELL ARCHIVES</i></a>
+            <a href="/" style="color: white;"><i>THE R-CELL ARCHIVES</i></a>
         </div>
         <div class="col folder-tab agent-file" style="text-align: right;">
             <nav>
@@ -31,51 +31,117 @@
             <!-- Name -->
             <h1>Agent ROMEO</h1>
             <!-- Images -->
-
          </div>
 
          <!-- Information -->
         <div class="container my-4">
             <div class="container pl-3 py-1" style="background-color: black;"><h2>INFORMATION</h2></div>
+            
+            <!-- General Info -->
             <div class="row m-3">
                 <div class="col-8">
                     <div class="row">
                         <div class="col-4 m-2">Legal Name:</div>
-                        <div class="col m-2" style="border-bottom:1px solid;">     Calcifer Courland</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">Calcifer Courland</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Gender:</div>
-                        <div class="col m-2" style="border-bottom:1px solid;">     Male</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">Male</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Age:</div>
-                        <div class="col m-2" style="border-bottom:1px solid;">     33</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">33</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Height:</div>
-                        <div class="col m-2" style="border-bottom:1px solid;">     171 cm</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">171 cm / 5' 8"</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">DOB:</div>
-                        <div class="col m-2" style="border-bottom:1px solid;">     9 September 1982</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">9 September 1982</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Nationality:</div>
-                        <div class="col m-2" style="border-bottom:1px solid;">     American</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">American</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Profession:</div>
-                        <div class="col m-2" style="border-bottom:1px solid;">     Air Force Pilot</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">Air Force Pilot</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Status:</div>
-                        <div class="col m-2" style="border-bottom:1px solid;">     Alive</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">Alive</div>
                     </div>
                 </div>
-                <div class="col">
-                    Image
+                <div class="col" style="margin-top: auto; margin-bottom:auto">
+                    <img src="../img/static.png" alt="Placeholder image of TV static" class="img-fluid">
                 </div>
             </div>
+
+            <!-- Stats -->
+            <div class="row m-3">
+                <!-- Main Stats Column -->
+                <div class="col-2 gx-3">
+                  <div class="row no gutters pb-2">
+                    <div class="col-6 p-1 font-weight-bold accent-color text-center">STR</div>
+                    <div class="col-6 p-1 text-right">10</div>
+                    <div class="w-100"></div>
+                    <div class="col-6 p-1 font-weight-bold accent-color text-center">CON</div>
+                    <div class="col-6 p-1 text-right">10</div>
+                    <div class="w-100"></div>
+                    <div class="col-6 p-1 my-auto font-weight-bold accent-color text-center">DEX</div>
+                    <div class="col-6 p-1 text-right">15</div>
+                  </div>
+                </div>
+                <div class="col-2 gx-3">
+                    <div class="row no gutters pb-2">
+                      <div class="col-6 p-1 font-weight-bold accent-color text-center">INT</div>
+                      <div class="col-6 p-1 text-right">9</div>
+                      <div class="w-100"></div>
+                      <div class="col-6 p-1 font-weight-bold accent-color text-center">POW</div>
+                      <div class="col-6 p-1 text-right">14</div>
+                      <div class="w-100"></div>
+                      <div class="col-6 p-1 my-auto font-weight-bold accent-color text-center">CHA</div>
+                      <div class="col-6 p-1 text-right">14</div>
+                    </div>
+                </div>   
+            
+
+                <!-- HP/San Column-->
+                <div class="col-8 gx-5">
+                    <!--HP Bar-->
+                    <div class="row no-gutters pb-2">
+                        <div class="col-2 p-1 text-right align-middle font-weight-bold accent-color">HP</div>
+                        <div class="col-10 p-1">
+                            <div class="progress my-2 rounded-0"><div class="progress-bar bg-danger" role="progressbar" aria-valuenow="100" aria-valuemin ="0" aria-valuemax="100" style="width:100%;height:16px">10 / 10</div></div>
+                        </div>
+                    </div>
+                    <!--SAN Bar-->
+                    <div class="row no-gutters pb-2">
+                        <div class="col-2 p-1 text-right align-middle font-weight-bold accent-color">SAN</div>
+                        <div class="col-10 p-1">
+                            <div class="progress my-2 rounded-0"><div class="progress-bar bg-warning" role="progressbar" aria-valuenow="70" aria-valuemin ="0" aria-valuemax="100" style="width:70%;height:16px">70 / 100</div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+              
+            <!--Disorders List-->
+            <h3><u>DISORDERS</u></h3>
+            <ul class="ml-2 fa-ul">
+                <li>
+                    None, for now.
+                </li>
+
+                <!-- Copy the following to make a new bullet point
+                <li>
+                    <b class="accent-color">DISORDER NAME:</b>Description
+                </li> 
+                -->
+            </ul>
         </div>
 
         <!-- Background -->
         <div class="container my-4">
             <div class="container pl-3 py-1" style="background-color: black;"><h2>BACKGROUND</h2></div>
             <div class="my-4">
-                words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words
+                <br>Calcifer Courland was born in █████, Utah to Hani Courland. He was known as ██████ in his early life and grew up ████████ known as █████████████, which is still active today. As a child, he was taught ███████████████████████████████████████████████████████████████. He often struggled to fit in with his peers ██████████ ███████████████████████████████████ ██████████████████████████ after he was █████████████████████████ Kenny Hoffman. He ████████ in 2003 by ███████████████████████ and █████████████████████.</br>
+
+                <br>Calcifer spent the next few years in the Air Force academy where he trained to become a pilot. In this time, he ███████████████████████. He met his current girlfriend, Livia Post-Scott in 2008, and they got together in 2009. The couple is planning to get engaged and married soon. While ████████ █████████████████, he still keeps contact with one of his sisters, Martha Courland, over the phone. In his free time, he likes to ride his motorbike, play poker, and pet cats.</br>
+                
             </div>
         </div>
 

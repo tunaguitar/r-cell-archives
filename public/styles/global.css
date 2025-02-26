@@ -77,7 +77,15 @@ h2 {
     letter-spacing: 5px;
 }
 
+h3 {
+    font-family: "Cousine", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    vertical-align: middle;
+    letter-spacing: 5px;
+}
+
 a {
+    font-family: "Cousine", Verdana, Geneva, Tahoma, sans-serif;
     color: #96CE65;
 }
 
@@ -95,7 +103,7 @@ body {
 
 nav a {
     margin: 20px 20px;
-    font-size: 24px;
+    font-size: 20px;
     display: inline-block;
     text-align: center;
 }
@@ -103,6 +111,10 @@ nav a {
 .header-text {
     font-family: "Cousine", Verdana, Geneva, Tahoma, sans-serif;
     top: 0px;
+    position: sticky;
+    width: auto;
+    background-color: black;
+    z-index: 10;
 }
 
 .agent-file {
@@ -112,4 +124,8 @@ nav a {
 
 .folder-tab {
     clip-path: polygon(10% 0%, 0% 100%, 100% 100%, 100% 0%);
+}
+
+.accent-color {
+    color:#96CE65;
 }
