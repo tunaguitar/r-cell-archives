@@ -90,7 +90,7 @@ a {
 }
 
 a:hover {
-    color: #7d861d;
+    color: #e5dd6a;
 }
 
 body {
@@ -111,7 +111,6 @@ nav a {
 .header-text {
     font-family: "Cousine", Verdana, Geneva, Tahoma, sans-serif;
     top: 0px;
-    position: sticky;
     width: auto;
     background-color: black;
     z-index: 10;

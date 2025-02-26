@@ -8,7 +8,7 @@
 </head>
 
 <!-- HEADER -->
-<div class="containter header-text">
+<div class="containter header-text" style="position: sticky;">
     <div class="row justify-content-center align-items-center">
         <div class="col-6" style="font-size: 36px;">
             <a href="/" style="color: white;"><i>THE R-CELL ARCHIVES</i></a>
@@ -123,7 +123,7 @@
             <h3><u>DISORDERS</u></h3>
             <ul class="ml-2 fa-ul">
                 <li>
-                    None, for now.
+                    None.
                 </li>
 
                 <!-- Copy the following to make a new bullet point
@@ -138,7 +138,7 @@
         <div class="container my-4">
             <div class="container pl-3 py-1" style="background-color: black;"><h2>BACKGROUND</h2></div>
             <div class="my-4">
-                <br>Calcifer Courland was born in █████, Utah to Hani Courland. He was known as ██████ in his early life and grew up ████████ known as █████████████, which is still active today. As a child, he was taught ███████████████████████████████████████████████████████████████. He often struggled to fit in with his peers ██████████ ███████████████████████████████████ ██████████████████████████ after he was █████████████████████████ Kenny Hoffman. He ████████ in 2003 by ███████████████████████ and █████████████████████.</br>
+                <br>Calcifer Courland was born in █████, Utah to Honey Courland. He was known as ██████ in his early life and grew up ████████ known as █████████████, which is still active today. As a child, he was taught ███████████████████████████████████████████████████████████████. He often struggled to fit in with his peers. Throughout his childhood, he often struggled to fit in despite his mother’s efforts and grew resentful █████████████ █████████ after he was █████████████████████████ Kenny Hoffman. He ran away in 2003 by stealing Hoffman’s motorbike and escaping to ██████████.</br>
 
                 <br>Calcifer spent the next few years in the Air Force academy where he trained to become a pilot. In this time, he ███████████████████████. He met his current girlfriend, Livia Post-Scott in 2008, and they got together in 2009. The couple is planning to get engaged and married soon. While ████████ █████████████████, he still keeps contact with one of his sisters, Martha Courland, over the phone. In his free time, he likes to ride his motorbike, play poker, and pet cats.</br>
                 
@@ -148,8 +148,37 @@
         <!-- CONNECTIONS -->
         <div class="container my-4">
             <div class="container pl-3 py-1" style="background-color: black;"><h2>CONNECTIONS</h2></div>
-            <div class="my-4">
-                words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words
+            <!-- <div class="d-flex flex-row flex-wrap justify-content-around my-4"> -->
+            <div class="row my-4">
+                <!-- Livia -->
+                <div class="col-4">
+                    <div class="row"><img src="../img/static.png" alt="Placeholder image of TV static" height="200" width="200"></div>
+                    <div class="row pt-2"><b>Livia Post-Scott</b></div>
+                    <div class="row" style="font-size: smaller;"><p>30. Mechanic and journalist. Calcifer's girlfriend.</p></div>
+                </div>
+                
+
+                <!-- Martha -->
+                <div class="col-4">
+                    <div class="row" style="align-items: center;"><img src="../img/static.png" alt="Placeholder image of TV static" height="200" width="200"></div>
+                    <div class="row pt-2"><b>Martha Courland</b></div>
+                    <div class="row" style="font-size: smaller;"><p>38. Loving mother to three kids. Calcifer's older sister.</p></div>
+                </div>
+
+                <!-- Lettie -->
+                <div class="col-4">
+                    <div class="row"><img src="../img/static.png" alt="Placeholder image of TV static" height="200" width="200"></div>
+                    <div class="row pt-2"><b>Lettie Courland</b></div>
+                    <div class="row" style="font-size: smaller;"><p>36. An example of a perfect life among █████████████. Calcifer's estranged older sister.</p></div>
+                </div>
+
+                <!-- Honey -->
+                <div class="col-4">
+                    <div class="row"><img src="../img/static.png" alt="Placeholder image of TV static" height="200" width="200"></div>
+                    <div class="row pt-2"><b>Honey Courland</b></div>
+                    <div class="row" style="font-size: smaller;"><p>58. Calcifer's estranged mother</p></div>
+                </div>
+
             </div>
         </div>
          

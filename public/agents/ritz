@@ -8,7 +8,7 @@
 </head>
 
 <!-- HEADER -->
-<div class="containter header-text">
+<div class="containter header-text" style="position: sticky;">
     <div class="row justify-content-center align-items-center">
         <div class="col-6" style="font-size: 36px;">
             <a href="/" style="color: white;"><i>THE R-CELL ARCHIVES</i></a>
@@ -139,7 +139,7 @@
         <div class="container my-4">
             <div class="container pl-3 py-1" style="background-color: black;"><h2>BACKGROUND</h2></div>
             <div class="my-4">
-                words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words
+                Unknown.
             </div>
         </div>
 
@@ -147,7 +147,12 @@
         <div class="container my-4">
             <div class="container pl-3 py-1" style="background-color: black;"><h2>CONNECTIONS</h2></div>
             <div class="my-4">
-                words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words words words words backstory words words
+                <!-- Wife -->
+                <div class="col-4">
+                    <div class="row"><img src="../img/static.png" alt="Placeholder image of TV static" height="200" width="200"></div>
+                    <div class="row pt-2"><b>Very Real Wife</b></div>
+                    <div class="row" style="font-size: smaller;"><p>Struggles with Reverb use. Archibald's very real wife.</p></div>
+                </div>
             </div>
         </div>
          
