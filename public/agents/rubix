@@ -41,25 +41,25 @@
                 <div class="col-8">
                     <div class="row">
                         <div class="col-4 m-2">Legal Name:</div>
-                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">Heinz Doofnsmirtz</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">Abraham Jones</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Gender:</div>
-                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">???</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">Male</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Age:</div>
-                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">???</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">52</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Height:</div>
-                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">??' ??"</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">175 cm / 5' 9"</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">DOB:</div>
-                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">???</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">31 October 1963</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Nationality:</div>
-                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">???</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">American</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Profession:</div>
-                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">???</div>
+                        <div class="col m-2 pl-4" style="border-bottom:1px solid;">Researcher</div>
                         <div class="w-100"></div>
                         <div class="col-4 m-2">Status:</div>
                         <div class="col m-2 pl-4" style="border-bottom:1px solid;">Alive</div>
@@ -112,7 +112,7 @@
                     <div class="row no-gutters pb-2">
                         <div class="col-2 p-1 text-right align-middle font-weight-bold accent-color">SAN</div>
                         <div class="col-10 p-1">
-                            <div class="progress my-2 rounded-0"><div class="progress-bar bg-warning" role="progressbar" aria-valuenow="100" aria-valuemin ="0" aria-valuemax="100" style="width:1000%;height:16px">?? / 100</div></div>
+                            <div class="progress my-2 rounded-0"><div class="progress-bar bg-warning" role="progressbar" aria-valuenow="100" aria-valuemin ="0" aria-valuemax="100" style="width:100%;height:16px">?? / 100</div></div>
                         </div>
                     </div>
                 </div>
@@ -122,7 +122,9 @@
             <h3><u>DISORDERS</u></h3>
             <ul class="ml-2 fa-ul">
                 <li>
-                    Unknown.
+                    <li>
+                        <b class="accent-color">TOTEMIC COMPULSION:</b>Going one hour without his pendant triggers an acute episode, where he suffers a -10% penalty to every skill test, stat test, and SAN roll until the pendant is recovered or he fixates on something else.
+                    </li> 
                 </li>
 
                 <!-- Copy the following to make a new bullet point
@@ -144,7 +146,7 @@
         <!-- CONNECTIONS -->
         <div class="container my-4">
             <div class="container pl-3 py-1" style="background-color: black;"><h2>CONNECTIONS</h2></div>
-            <div class="my-4">
+            <div class="row my-4">
                 Unknown.
             </div>
         </div>
